@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "あの夏が癖になっていく",
+  "base_artist": "Genie High",
+  "createdAt": "2025-12-28T05:02:57.263109Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あの夏が癖になっていく",
+      "artist": "ジェニーハイ",
+      "has_synced": true,
+      "path": "select/01_あの夏が癖になっていく_ジェニーハイ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あの夏が癖になっていく",
+      "artist": "ジェニーハイ",
+      "has_synced": false,
+      "path": "select/pl_01_あの夏が癖になっていく_ジェニーハイ.txt"
+    }
+  ]
+}
